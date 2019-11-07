@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/art-portfolio/static/css/main.ccd46f6b.chunk.css",
+    "main.js": "/art-portfolio/static/js/main.0ee71866.chunk.js",
+    "main.js.map": "/art-portfolio/static/js/main.0ee71866.chunk.js.map",
+    "runtime-main.js": "/art-portfolio/static/js/runtime-main.bad2b735.js",
+    "runtime-main.js.map": "/art-portfolio/static/js/runtime-main.bad2b735.js.map",
+    "static/js/2.f1ddb267.chunk.js": "/art-portfolio/static/js/2.f1ddb267.chunk.js",
+    "static/js/2.f1ddb267.chunk.js.map": "/art-portfolio/static/js/2.f1ddb267.chunk.js.map",
+    "index.html": "/art-portfolio/index.html",
+    "precache-manifest.baa5dcd0be7f1d9f45f9d3f0783e3d31.js": "/art-portfolio/precache-manifest.baa5dcd0be7f1d9f45f9d3f0783e3d31.js",
+    "service-worker.js": "/art-portfolio/service-worker.js",
+    "static/css/main.ccd46f6b.chunk.css.map": "/art-portfolio/static/css/main.ccd46f6b.chunk.css.map",
+    "static/media/Blue_Cat.png": "/art-portfolio/static/media/Blue_Cat.d8eb51d9.png",
+    "static/media/Cookie_Eyes.jpg": "/art-portfolio/static/media/Cookie_Eyes.06fb1150.jpg",
+    "static/media/Emily_Game.png": "/art-portfolio/static/media/Emily_Game.69e008d1.png",
+    "static/media/Lake_Landscape.jpg": "/art-portfolio/static/media/Lake_Landscape.068c6e2c.jpg",
+    "static/media/Lamp.png": "/art-portfolio/static/media/Lamp.fdc84376.png",
+    "static/media/Lindsay_Game.png": "/art-portfolio/static/media/Lindsay_Game.b078e9f0.png",
+    "static/media/Male_Sad.jpg": "/art-portfolio/static/media/Male_Sad.057c96b2.jpg",
+    "static/media/Office_Building.jpg": "/art-portfolio/static/media/Office_Building.84d7aff4.jpg",
+    "static/media/Savannah_Tree.png": "/art-portfolio/static/media/Savannah_Tree.c0a90fa3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad2b735.js",
+    "static/js/2.f1ddb267.chunk.js",
+    "static/css/main.ccd46f6b.chunk.css",
+    "static/js/main.0ee71866.chunk.js"
+  ]
+}
