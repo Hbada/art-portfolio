@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -19,4 +15,52 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+/*** Artcard component ***/
+
+.Artcard {
+  width: 300px;
+  padding: 2px;
+  margin: 1rem;
+  border-radius: 12px;
+  -webkit-box-shadow: 2px 6px 20px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 6px 20px 1px rgba(0,0,0,0.75);
+  box-shadow: 2px 6px 20px 1px rgba(0,0,0,0.75);
+}
+
+.Artcard-wide {
+  width: 600px;
+  padding: 2px;
+  margin: 1rem;
+  border-radius: 14px;
+  -webkit-box-shadow: 2px 6px 20px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 6px 20px 1px rgba(0,0,0,0.75);
+  box-shadow: 2px 6px 20px 1px rgba(0,0,0,0.75);
+}
+
+.Artcard img {
+  height: 300px;
+}
+
+.Artcard-wide img {
+  width: 80%;
+}
+
+.ArtcardDetails {
+  text-align: left;
+  font-size: 80%;
+  border-radius: 12px;
+  margin: 3% 10%;
+  padding: 3% 5%;
+  vertical-align: middle;
+  height: auto;
+  -webkit-box-shadow: inset 1px 0px 18px 1px rgba(173,173,173,1);
+  -moz-box-shadow: inset 1px 0px 18px 1px rgba(173,173,173,1);
+  box-shadow: inset 1px 0px 18px 1px rgba(173,173,173,1);
+}
+
+.ArtcardDetails p {
+  padding: 0;
+  margin: 0;
 }
